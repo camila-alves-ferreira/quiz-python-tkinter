@@ -1,0 +1,37 @@
+{
+    "questao": [
+      "[1] Que planeta é conhecido como o Planeta Vermelho?",
+      "[2] Qual tipo de estrela é o Sol?",
+      "[3] Qual o primeiro satélite enviado para o Espaço?",
+      "[4] Qual o nome do maior planeta do Sistema Solar?"
+    ],
+    "resposta": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "opçao": [
+  
+      ["Netuno",
+        "Mercúrio",
+        "Terra",
+        "Marte"
+      ],
+      ["Supergigante vermelha",
+        "Anã amarela",
+        "Anã marrom",
+        "Gigante azul"
+      ],
+      ["Apolo",
+        "Artemis",
+        "Sputnik 1",
+        "Cassini"
+      ],
+      ["Júpiter",
+        "Saturno",
+        "Sirius",
+        "Io"
+      ]
+    ]
+  }
